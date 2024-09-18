@@ -29485,3 +29485,6 @@ a.ui-button:active, .ui-button:active,
     font-size: 40px;
   }
 }
+.button-donate-container {
+  display: none !important;
+}
